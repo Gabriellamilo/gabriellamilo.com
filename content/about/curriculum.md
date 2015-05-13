@@ -5,10 +5,10 @@ achieve. talk in first person
 
 I am experienced in architecture, luxury interior design and project management, through various internship positions and project competitions.
 
-I hold a license as European Architect from 2014 from the Ordine degli Architetti di Roma.
-I earned my master in Architecture from the university of Milano in 2013 and a bachelor in architecture from the university of Rome in 2010. The work of my thesis was presented at 8th International Biennial of Landscape Architecture in Barcelona 2014 and the Archiprix 2014.
+I hold a license in Italy as European Architect from 2015.
+I earned my Master in Architecture from the Polytechnic of Milan in 2013 and a Bachelor in Architecture from the University of Rome La Sapienza in 2010. The work of my thesis was presented at 8th International Biennial of Landscape Architecture in Barcelona 2014 and the Archiprix 2014.
 
- I participate and won different competitions in my field. My work were presented at the biennale di venezia in 2010 and in Spain at the <INSERT HERE> in 2020.
+ I participate and won different competitions in my field. My work were presented at the Biennale di venezia in 2010 and in Spain at the Biennal of Landscape 2014
 
 I am passionate about art, design and architecture where functionality and innovation intersects luxury and class. I blog about architecture and fashion.
 I wrote my master thesis on how to ....  I won the competition of vattellappesca.
@@ -34,21 +34,19 @@ I supervised and implemented: the blue print design, the presentations and its c
 
 ## Education:
 Master in Architecture - (International course taught in English)
-- POLITECNICO DI MILANO Milan ITALY Faculty of Architecture and Society La SAPIENZA , Rome ITALY
- I° Artistic High school Ripetta in Rome
-March 2010 | April 2013 -
+- Polytechnic of Milan  Milan ITALY Faculty of Architecture and Society La SAPIENZA , Rome ITALY March 2010 | April 2013 -
 September 2005 | January 2009 -Bachelor in “Interior Architecture and Exhibition”-
-September 2000 | July 2005
+I° Artistic High school Ripetta in Rome September 2000 | July 2005
 
 - Summer School: Geometry, Code and Design | IntensiveProgram |Structural Architecture Kaiserslautern | GERMANY December 2012
 
-- Iberian and Canarian Vegetation: Landscapes and Human Impact | Athens programme at Universidad Politécnica de Madrid. Madrid | SPAIN November 2012
+- Iberian and Canarian Vegetation: Landscapes and Human Impact | Athens programme at Universidad Politécnica de Madrid. Madrid | SPAIN November 2012
 
-- Landscape urbanism theory and practice | Kingstone University | London UK April-March 2012
+- Landscape urbanism Theory and Practice | Kingstone University | London UK April-March 2012
 - Seminar at LAIAD
 
 ## Languages:
-- Italian Fluent
+- Italian Mother tongue
 - English IELTS 7
 - Spanish Advanced
 - French Proficient
